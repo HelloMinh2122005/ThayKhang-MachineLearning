@@ -23,3 +23,11 @@ __pycache__/
 # OS generated files
 # Agent & internal metadata
 .agent/
+
+# Other
+scripts/
+prompt.md
+*.bak
+~$*
+.DS_Store
+Thumbs.db
